@@ -82,4 +82,9 @@ body {
     color: rgb(74, 100, 125);
     cursor: pointer;
   }
-  
+#githubRep{
+    text-align: center;
+font-size: 13px;
+text-decoration: underline;
+line-height: 2px;
+}  
