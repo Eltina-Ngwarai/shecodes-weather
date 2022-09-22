@@ -1,90 +1,90 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  
-  h1 {
-    font-size: 55px;
-    font-weight: 100;
-    padding-left: 15px;
-  }
-  
-  h2 {
-    font-size: 28px;
-    padding-top: 25px;
-    padding-left: 15px;
-  }
-  
-  .date-time {
-    font-size: 14px;
-    padding-left: 15px;
-    line-height: 5px;
-  }
-  .weather-specs {
-    line-height: 8px;
-    padding-left: 18px;
-    font-size: 16px;
-  }
-  .temp {
-    font-size: 13px;
-  }
-  .row {
-    padding: 20px;
-  }
-  
-  .card {
-    position: relative;
-    max-width: 590px;
-    margin: 60px auto;
-    background: linear-gradient(
-      95.2deg,
-      rgb(173, 252, 234) 26.8%,
-      rgb(192, 229, 246) 64%
-    );
-  }
-  form {
-    width: 400px;
-    margin-top: 250px;
-    text-align: center;
-    padding-top: 21px;
-  }
-  #submit {
-    border-radius: 20px;
-  }
-  #search-city {
-    margin-top: 20px;
-    border-radius: 15px;
-    width: 250px;
-    display: inline;
-  }
-  #header {
-    display: inline;
-  }
-  .forecast {
-    padding-left: 50px;
-  }
-  .col-2 {
-    width: 20%;
-  }
-  .emoji {
-    font-size: 40px;
-  }
-  .date {
-    font-size: 18px;
-    padding-left: 10px;
-  }
-  .current-location {
-    color: #205ed7;
-    font-size: 19px;
-    padding-left: 5px;
-    padding-top: 15px;
-  }
-  .current-location:hover {
-    color: rgb(74, 100, 125);
-    cursor: pointer;
-  }
-#githubRep{
-    text-align: center;
-font-size: 13px;
-text-decoration: underline;
-line-height: 2px;
-}  
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 55px;
+  font-weight: 100;
+  padding-left: 15px;
+}
+
+h2 {
+  font-size: 28px;
+  padding-top: 25px;
+  padding-left: 15px;
+}
+
+.date-time {
+  font-size: 14px;
+  padding-left: 15px;
+  line-height: 5px;
+}
+.weather-specs {
+  line-height: 8px;
+  padding-left: 18px;
+  font-size: 16px;
+}
+.temp {
+  font-size: 13px;
+}
+.row {
+  padding: 20px;
+}
+
+.card {
+  position: relative;
+  max-width: 590px;
+  margin: 60px auto;
+  background: linear-gradient(
+    95.2deg,
+    rgb(173, 252, 234) 26.8%,
+    rgb(192, 229, 246) 64%
+  );
+}
+form {
+  width: 400px;
+  margin-top: 250px;
+  text-align: center;
+  padding-top: 21px;
+}
+#submit {
+  border-radius: 20px;
+}
+#search-city {
+  margin-top: 20px;
+  border-radius: 15px;
+  width: 250px;
+  display: inline;
+}
+#header {
+  display: inline;
+}
+.forecast {
+  padding-left: 50px;
+}
+.col-2 {
+  width: 20%;
+}
+.emoji {
+  font-size: 40px;
+}
+.date {
+  font-size: 18px;
+  padding-left: 10px;
+}
+.current-location {
+  color: #205ed7;
+  font-size: 19px;
+  padding-left: 5px;
+  padding-top: 15px;
+}
+.current-location:hover {
+  color: rgb(74, 100, 125);
+  cursor: pointer;
+}
+#github-rep {
+  text-align: center;
+  font-size: 13px;
+  line-height: 1spx;
+  display: block;
+}
